@@ -1,5 +1,5 @@
 # Image_processing
-Image_generator&amp;auper resolution(ESRGAN)
+Image_generator&amp;uper resolution(ESRGAN)
 
 #Image generator 
 
